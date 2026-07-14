@@ -1,7 +1,7 @@
 # CRIM-Robbery
 
 ## Overview
-As part of the Technology in Criminal Justice course at Rochester Institute of Technology, I conducted a comprehensive investigation into a simulated armed robbery. The project replicated the investigative process used by law enforcement, requiring evidence analysis, critical thinking, and the integration of multiple investigative resources to identify a suspect and reconstruct the sequence of events.
+Investigated a simulated armed-robbery case from initial incident report through suspect identification. Formulated investigative questions to request relevant records from the course instructor, and analyzed the license plate reader (LPR) data, surveillance footage, and property records provided in response. Reviewed the victim's statement for inconsistencies and leads, cross-referenced records to identify addresses tied to the case, and reconstructed a full incident timeline connecting the crime scene to the original offense location. Presented findings and conclusions to the course instructor. 
 
 ---
 
